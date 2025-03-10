@@ -13,10 +13,11 @@ def generate_embeddings(df, model_name='all-MiniLM-L6-v2'):
     """
     model = SentenceTransformer(model_name)
     embeddings = model.encode(df['combined_text'].values, convert_to_tensor=True)
+    embeddings = embeddings.cpu()
     return embeddings.numpy()
 
 # -------------------------
-# 2. FINE-TUNE THE MODEL (Optional)
+# 2. FINE-TUNE THE MODEL
 # -------------------------
 def fine_tune_model(df, model_name='all-MiniLM-L6-v2', epochs=3):
     """
@@ -72,7 +73,7 @@ def main():
     
     # Save embeddings and metadata
     np.save('movie_embeddings.npy', embeddings)
-    df[['movie name', 'movie_id', 'plot', 'year', 'genres', 'poster_path']].to_csv('movie_metadata.csv', index=False)
+    df[['movie name', 'year', 'genres', 'poster_path']].to_csv('movie_metadata.csv', index=False)
     
     # Build FAISS index
     build_faiss_index(embeddings)
