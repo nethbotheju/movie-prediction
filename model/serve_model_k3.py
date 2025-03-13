@@ -2,6 +2,8 @@ import pandas as pd
 import faiss
 from sentence_transformers import SentenceTransformer
 from flask import Flask, request, jsonify
+from flask_cors import CORS
+
 
 # -------------------------
 # 1. LOAD DATA AND INDEX
@@ -42,6 +44,7 @@ def get_top_movies(query_summary, df, index, model, top_k=3):
 # 3. FLASK API
 # -------------------------
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 # Load data and index at startup
 df, index = load_data_and_index()
