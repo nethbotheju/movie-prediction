@@ -8,233 +8,197 @@ tags:
 - loss:TripletLoss
 base_model: sentence-transformers/all-MiniLM-L6-v2
 widget:
-- source_sentence: long time inmate twitch kurupt gets himself transfered to a tougher
-    prison than the reopened alcatraz he claims its to be closer to his lady but his
-    real motives are a bit more grandiose there he crosses paths with burke bill goldberg
-    a bulky prisoner who can take care of himself twitch despite being less muscular
-    is just as mouthy and is pretty much the same but there is a gang war brewing
-    between the black and hispanic inmates that explodes into a hostile takeover of
-    the prison when the blacks gang leader is shot dead and the finger points at burke
-    but the sht really hits the fan when the real killer and leader of the hispanics
-    cortez robert madrid takes twitchs girlfriend and burkes daughter hostage a long
-    time inmate twitch  gets himself transferred to a tougher prison than the reopened
-    alcatraz he claims its to be closer to his lady but his real motives are a bit
-    more grandiose there he crosses paths with burke  a bulky prisoner who can take
-    care of himself twitch despite being less muscular is just as mouthy and is pretty
-    much the same but there is a gang war brewing between the black and hispanic inmates
-    that explodes into a hostile takeover of the prison when the blacks gang leader
-    is shot dead and the finger points at burke but the situations worsen when the
-    real killer and leader of the hispanics cortez  takes twitchs girlfriend  and
-    burkes daughter  hostage as well betraying his comrades to escape eventually things
-    get more complicated as twitchs real reason for his transfer is to find gold stashed
-    somewhere in state and cortez demands a helicopter out of state or otherwise the
-    hostages are dead burke and twitch eventually catch up to cortez and after a long
-    fight with burke ending up wounded cortez is knocked out and transferred to another
-    prison twitch is given parole after his actions that could have seen him wait
-    even longer before he actually gets out with burke having to serve only a few
-    more weeks rather than years twitch and his girlfriend find the gold and as a
-    favor for burke set up his account with 80 million dollars along with a plan to
-    help burkes daughter for college surprising burke himself
+- source_sentence: house unamerican activities committee investigators jim mclain
+    and mal baxter come to post war hawaii to track communist party activities even
+    though belonging to the party was legal at the time they are interested in everything
+    from insurance fraud to the sabotage of a us naval vessel house unamerican activities
+    committee investigators jim mclain and mal baxter come to hawaii to track communist
+    party activities they are interested in everything from insurance fraud to the
+    sabotage of a us naval vessel after receiving useful information from a reporter
+    named briggs the agents begin searching for willie nomaka a party treasurer who
+    allegedly has experienced a nervous breakdown and has been seeing dr gelster a
+    psychiatrist the doctors secretary nancy vallon is helpful as well she is a widow
+    mclain asks her on a date and a romance develops nomakas landlady madge assists
+    in the investigation flirting with mclain nomakas exwife also helps him he is
+    eventually found to be staying in a sanitarium heavily drugged and unable to speak
+    party leader sturak gives orders to dr gelster to get rid of him gelster also
+    kills mclains partner baxter by mistake with an injection of truth serum as the
+    investigators close in sturak attempts to make gelster confess to his party membership
+    so the case can be closed and so others can continue their nefarious work their
+    meeting is interrupted by mclain who instigates a brawl police arrive to place
+    party leaders under arrest but ultimately he and nancy vallon see them plead the
+    fifth amendment and go free
   sentences:
-  - The Pearl of Death
-  - Half Past Dead 2
-  - Creature
-- source_sentence: a boating accident off the coast of spain sends paul and his girlfriend
-    barbara to the decrepit fishing village of imboca as night falls people start
-    to disappear and things not quite human start to appear paul is pursued by the
-    entire town running for his life he uncovers imbocas secretthey worship dagon
-    a monstrous god of the seaand dagons unholy offspring are on the loose plot paul
-    marsh is a stock market tycoon vacationing off the shores of spain with his girlfriend
-    barbara and their friends vicki and howard a storm blows the friends boat against
-    some hidden rocks vicki is trapped below deck and howard stays with her while
-    paul and barbara take a lifeboat to the little fishing village of imbocca at shore
-    barbara and paul find no one about and venture into town until they eventually
-    reach the church where they find a priest barbara convinces him to help them and
-    the priest comes to speak with two fishermen at the docks who volunteer to take
-    either paul or barbara to the wreck despite pauls misgivings barbara stays to
-    try to find a phone in order to call a doctor while paul goes to help their friends
-    vicki and howard are mysteriously missing however and paul is brought back to
-    imboca where he is sent to a hotel that barbara was supposed to have ended up
-    in but she is missing as well and paul is left to wait for her in an old filthy
-    room after inspecting the room barbara walks in and paul tries to talk with her
-    but she turns to face him only to open her mouth and scream at him while tentacles
-    protrude from her mouth paul jerks awake indicating that it was a dream his fitful
-    rest is then disturbed by a large gathering of strange inhuman people approaching
-    the hotel and paul fearfully tries to barricade himself in the room but is forced
-    to flee from the masses he ends up in a macabre tannery full of human skins where
-    he discovers howards skinned face he ends up fighting off several of the villagers
-    by starting a fire and uses the flames and confusion as a diversion paul runs
-    and finds momentary safety with an old drunkard named ezequiel the last human
-    in imboca ezequiel explains how the worship of dagon brought incredible wealth
-    in the form of fish and gold to imboca but also terror when dagon demanded live
-    sacrifices and human women to breed with paul realizes his friends are in danger
-    and begs ezequiel to help him save barbara and vicki ezequiel relents and takes
-    paul to the mayors manor distracting some imbocans long enough for paul to slip
-    inside there paul finds a beautiful woman named uxia cambarro who looks just like
-    the mermaid from pauls dream she saves him from discovery but when paul finds
-    she isnt human either he flees again in horror despite uxias pleas to stay paul
-    narrowly escapes a horde of more villagers by stealing an old car but ends up
-    crashing and is caught and thrown into a barn where he is reunited with vicki
-    ezequiel and barbara the three plan to escape but the attempt comes to naught
-    when they are discovered having been raped and impregnated vicki kills herself
-    and paul and ezequiel manage to kill one guard and subdue another before being
-    recaptured by the guards backup barbara is taken away and paul and ezequiel end
-    up in a butchery where they are chained and given a chance to join the worship
-    of dagon when they both refuse ezequiel is killed before pauls eyes while they
-    both recite psalm 23 paul is saved by the appearance of uxia who informs paul
-    that he has no choice but to join them when he seems to concede uxia tells the
-    priest to make arrangements for their marriage after uxia leaves paul escapes
-    killing the guards and the priest and starts desperately looking for barbara collecting
-    a can of kerosene on the way his search brings him to the empty church and inside
-    is a hidden passage that takes him below ground where a congregation of imbocans
-    are watching uxia now garbed as a priestess torture barbara before the human woman
-    is chained and lowered into a deep waterfilled pit while the imbocan congregation
-    and uxia call to dagon paul attacks dousing several villagers in kerosene and
-    lighting them on fire before pulling barbara out of the pit however it is too
-    late to save her the monstrous dagon himself grabs barbara and drags her back
-    down the pit severing her arms much to pauls horror the uninjured imbocans surround
-    paul but are stayed by one man who is revealed to be pauls father and uxias as
-    well she explains that pauls human mother escaped from imboca years ago but now
-    that paul has returned he will be her lover and they will go to dwell with dagon
-    forever thanks to the imbocans immortality trapped paul pours the last of the
-    kerosene over his body and lights himself on fire in despair uxia grabs him and
-    sends them both into the water where paul develops gills with no choice left he
-    follows uxia down into the pit he has seen in his dreams
+  - The Bride Wore Red
+  - Big Jim McLain
+  - The Howards of Virginia
+- source_sentence: michael jennings is a genius whos hired  and paid handsomely  by
+    hightech firms to work on highly sensitive projects after which his shortterm
+    memory is erased so hes incapable of breaching security but at the end of a threeyear
+    job hes told he isnt getting a paycheck and instead receives a mysterious envelope
+    in it are clues he must piece together to find out why he wasnt paid  and why
+    hes now in hot water in the near future michael jennings is a reverse engineer
+    he analyzes his clients competitors technology and recreates it often adding improvements
+    beyond the original specifications to protect his clients intellectual property
+    and himself jennings with the aid of his friend shorty undertakes a memory wipe
+    to remove knowledge of his engineering jennings is approached by his old college
+    roommate james rethrick the ceo of the successful technology company allcom rethrick
+    proposes a lengthy threeyear reverse engineering job to jennings requiring him
+    to live on allcoms secured campus until its conclusion but rewarding him handsomely
+    with company stock jennings agrees and after arranging for his longterm absence
+    arrives at allcom turns in his personal possessions and is given a brief tour
+    of the facility where he meets and flirts with botanist dr rachel porter he is
+    injected with a longterm memory marker for the postjob memory wipe three years
+    later at the conclusion of the memory wipe jennings is sitting in rethricks office
+    being thanked for a successful job on returning home jennings finds that while
+    the allcom stock has become quite valuable  he had signed away his share near
+    the end of his tenure furthermore he finds that his personal possessions have
+    been replaced with an envelope containing a random assortment of everyday items
+    he is soon captured by the fbi on charges related to the death of physicist william
+    dekker jennings is able to escape custody finding that the items in the envelope
+    can be used at the right time to evade capture after warning shorty of his plight
+    he finds the items pointing him to a cafe meeting with porter rethrick who has
+    been watching jennings movements discovers a message to porter of this meeting
+    and sends a body double to take her place to try to recover the envelope the real
+    porter shows up and helps jennings to escape from both the fbi and rethricks men
+    they take shelter at a local school examining the remaining items in the envelope
+    while porter tries to convince jennings of the relationship they shared during
+    his tenure at allcom one of the stamps holds a microdot that on enlargement reveals
+    several pictures taken from a machines display showing allcom becoming financially
+    successful with a device that can see the future but ultimately leading to political
+    strife and nuclear war jennings realizes he must have built this device using
+    dekkers knowledge and on realizing the horrors that will come prepared the envelope
+    using the forecasts from the machine to allow his future self to return to allcom
+    and destroy the unit furthermore as rethrick shortly discovers jennings rigged
+    the device to malfunction preventing rethrick from anticipating jennings actions
+    jennings and porter return to allcom and make their way to the machine room undetected
+    jamming the door behind them jennings determines the location of the defective
+    circuit and removes it subsequently rigging the machine to explode in a few minutes
+    jennings uses the machine one last time seeing a vision of himself being shot
+    by an fbi agent in the catwalks above the machine soon rethricks men storm the
+    room and after a brief firefight jennings and porter escape to the catwalks rethrick
+    is waiting there holding them at gunpoint the same tableau jennings previously
+    saw when jennings watch taken from the envelope beeps jennings ducks in time to
+    avoid the fbi agents bullet which ends up killing rethrick the machine is destroyed
+    and jennings and porter escape from the fbi in the chaos when the fbi agents arrive
+    and investigate they take sympathy and report jennings killed in the destruction
+    in the films conclusion jennings porter and shorty have opened a greenhouse nursery
+    jennings recalls a fortune cookie note from the envelope and discovers one last
+    act he had done with the machine predicting the results of a 90 million dollar
+    lottery and leaving the winning ticket in porters birdcage
   sentences:
-  - Dagon
-  - Legally Blondes
-  - Things We Lost in the Fire
-- source_sentence: using fossilized dna a scientist resurrects one of natures most
-    fearsome predators a sabretooth tiger scientific ambition turns deadly however
-    when the creature escapes and begins savagely stalking its prey  the human race
-    using fossilized dna a scientist clones a prehistoric saberetooth cat as the fearsome
-    creature is being transported it breaks free and begins stalking human prey it
-    first kills two vacationers then begins to hunt a group of young hikers and campers
-    in the nearby forest mountains catherine viciy  the scientist who created it and
-    her colleague anthony bricklin  call in robert thatcher  a big game hunter and
-    tracker to find the animal tricking him into believing it is an african lion they
-    go into the mountains to find the tiger and come across the cabin where the vacationers
-    were killed catherine throws away thatchers satellite phone knowing he had planned
-    to notify the police and animal control as they continue through the woods the
-    sabretooth kills kara a zoologist working for catherine and thatcher declares
-    he will kill the sabretooth no matter what the next day thatcher starts seeing
-    signs of campers and sabretooths tracks corresponding one night he hears a camper
-    scream and leaves camp to investigate he finds the campers remains and later relates
-    his fate to casey the leader of the group searching for him after they return
-    the groups camp trent another senior guide comes in screaming about the death
-    of another camper and about seeing a sabretooth to much shock and disbelief thatcher
-    goes after it but before he can kill it catherine shoots at it with a tranquilizer
-    gun and misses scaring it off thatcher is fired for trying to kill it instead
-    of catching it but the sabretooth reappears and slowly kills anthony allowing
-    thatcher and catherine time to escape after they recover some of thatchers weapons
-    they head for a nearby mine where thatcher instructs casey and the remaining campers
-    to hide and await his return however only casey and trent remain and the sabretooth
-    has trent trapped thatcher hands catherine his rifle and tells her to shoot the
-    sabretooth should it get past him then he heads to an opening at the top of the
-    mine he and casey hit the sabretooth with a tranquilizer and trent escapes after
-    they are all outside thatcher sends them on and tries to kills the sabretooth
-    but finds that catherine has unloaded his rifle as he runs away he falls and catches
-    his foot in a bear trap casey and trent find him and after they make spears from
-    saplings they make it back to a lake where they find catherine after striking
-    catherine down for nearly getting him killed thatcher prepares to go after the
-    sabretooth once more but catherine draws a revolver on him before she can kill
-    him trent kicks the gun out of her hand but is shot the revolver slides down the
-    cliff and the sabretooth reappears catherine tries to warn the beast off but is
-    killed by her own creation thatcher tricks the sabretooth into jumping on his
-    spear and throws it down a ledge killing it later thatcher casey and trent head
-    back to the summer camp where casey works
+  - Paycheck
+  - Road to Morocco
+  - G.I. Blues
+- source_sentence: concentrating on the personal lives of those involved a war correspondent
+    takes us through the preparations landing and initial campaign on guadalcanal
+    during wwii concentrating on the personal lives of those involved a war correspondent
+    takes us through the preparations landing and initial campaign on guadalcanal
+    during wwii
   sentences:
-  - Liar's Moon
-  - Garfield's Pet Force
-  - Sabretooth
-- source_sentence: during the 70s some komodo dragon eggs were dumped on an north
-    carolina island somehow the baby komodos survived and twenty years later they
-    have grown up and taken over the island for themselves young patrick has lost
-    his parents and his dog to the lizards but didnt see them himself which has left
-    him traumatized now with his therapist victoria they return to confront his fears
-    15 year old patrick  has spent many summer holidays with his parents at their
-    cottage on a small island off the coast of south carolina recent years have seen
-    a growth of industrial developments on the island damaging tourism at the beginning
-    of the film a crate of large reptilian looking eggs are discarded at the roadside
-    by a van driver twenty years later on a holiday at their summer home patricks
-    parents and dog are attacked and killed by something which leaves patrick in a
-    state of shock unable to recall the events patricks grandmother finds victoria
-    juno  a young psychiatrist to help patrick come to terms with his grief together
-    with his aunt annie  the three return to the island where they come face to face
-    with the endangered and viciously starving group of komodo dragons annie is killed
-    and victoria and patrick barely escape with their livesthey later meet up with
-    oates billy burke  and his sidekick denby  who were sent to kill all of the komodos
-    with annie and their ferryman dead victoria patrick oates and denby must call
-    for help from bracken the man who sent them on the island and is also helping
-    oates with his trial against him for the murdering of his wife which he did not
-    commit bracken refuses to get them off the island until they kill all of dragons
-    patrick runs off into the woods and gets lost from the group they hide in a nurses
-    station where denby is killed they go off to find patrick and oates also tries
-    to kill the komodos so they can get off the island victoria is attacked by one
-    of the komodos but she is saved by patrick patrick leaves without victoria and
-    she is attacked by another komodo meanwhile oates is attacked by one of the komodos
-    and stabs it in the eye he comes and shoots the komodo attacking victoria in the
-    head she convinces patrick to come with them but they attacked one of the few
-    remaining komodos oates tries to kill one of the komodos by lighting a cigar and
-    throwing it in the gasoline but his plan fails and victoria manages to stab it
-    in the eye with a rock bracken shows up in a helicopter and oates steals it from
-    them leaving them for komodo food victoria and patrick get trapped by one of the
-    remaining komodos but they are saved by oates who blows the komodo up with a flare
-    gun they return to florida and come back unharmed the police chief finds them
-    asks them if they are all right the credits start to roll as patrick responds
-    never better
+  - 'The Land Before Time V: The Mysterious Island'
+  - Albert Nobbs
+  - Guadalcanal Diary
+- source_sentence: when a charismatic teenager falters under constant pressure from
+    his parents and school he makes a potentially deadly mistake chicago college student
+    max hanson  is a talented artist and hockey player though more interested in the
+    latter he is under pressure from his mother sophie  to pursue a career in art
+    influenced by the fact that she put her own career aside to raise the family and
+    has just landed a coveted position with a local art gallery maxs father ed  is
+    a tax attorney with a more laidback approach to his sons future just wanting him
+    to be happy while working at the local video store with best friends orin  and
+    kate  a cute girl comes in with her friends seeking a copy of arachnophobia and
+    max is immediately smitten after locating her on campus the next day she introduces
+    herself as molly white  who already knows maxs name from his hockey jersey she
+    then gives max her phone number and invites him to a party shes attending that
+    night before long max and molly are becoming an item the two even managing to
+    make love in his bedroom with his mother and younger sister chloe in the house
+    however max soon finds out that molly is a drug addict as he accompanies her on
+    a trek to score some heroin which she promptly snorts max invites molly to chloes
+    birthday party and though she initially refuses to attend because its the same
+    night as a smashing pumpkins concert she later relents however a minor argument
+    erupts between her and sophie resulting in molly leaving abruptly and putting
+    the brakes on their budding relationship devastated max does his best to move
+    on but has a hard time doing so finally hes taken to a party one night by orin
+    and kate where he promptly spots molly she asks if they can go somewhere and talk
+    he accepts she apologizes and the two make up the next day max visits sophie at
+    work and tries to express his feelings about molly but her response is less than
+    positive a short time later molly celebrates their newfound relationship by having
+    them shoot up together in her apartment and max soon becomes hooked neglecting
+    his studies and job soon thereafter molly learns that shes three months behind
+    on rent and has a week to pay before being evicted not having enough money in
+    his bank account to pay it max goes to the video store to get his paycheck but
+    having only worked two hours during the past week thats all the pay he receives
+    and he is also given a pink slip sensing his friend may be in over his head orin
+    offers to try to help max but all he wants is money to supposedly fix the car  after
+    returning home max takes 200 from eds wallet when he gently attempts to approach
+    the subject with his son even offering to help him out of his financial situation
+    an argument erupts that culminates in sophie striking max feeling as though he
+    can never go back home max and molly  move in with her druggie friends not long
+    after max shows up at the ice rink attempting to steal money from orin in the
+    locker room but is caught in the act  once back at the pad max catches molly having
+    sex with a man in exchange for drugs and physically confronts him later as their
+    financial situation worsens the couple is reduced to panhandling at the local
+    mall where sophie spots max but says nothing until a few days later after hearing
+    this news ed and his other son brian attempt to find max but are unsuccessful
+    his addiction now totally out of control max tries to rob a local comic book store
+    for drug money but is caught by the police ed and brian later bail max out and
+    while brian thinks he needs to be put into rehab ed insists he can take care of
+    max at home however the effects of withdrawal are in full swing and it proves
+    to be an uphill battle finally after going into a rage max becomes unconscious
+    and is taken to a hospital once there an arguments erupts between ed and sophie
+    with sophie insisting that she did what anyone else would have done but ed retorts
+    thats a bunch of crap and reminds her that neither he nor the kids made her stop
+    painting she did it all by herself and that in her selfabsorbed attitude she failed
+    to notice that all max wanted was to know it was ok to not be perfect the next
+    day a doctor informs the family that max needs to get into a treatment program
+    but stresses the difficulty of doing so however while this discussion takes place
+    max manages to slip out of the hospital and begins frantically searching for molly
+    finally finding her in a sleazy motel room where she has died of a heroin overdose
+    out of his mind with grief max shows up at kates apartment and begs her for money
+    when she refuses he accuses her of wanting him and offers to prostitute himself
+    enraged kate throws max out of the apartment but in his stupor he takes a tumble
+    down the stairwell the following morning after his family had searched unsuccessfully
+    for him max is brought home in a taxi kate by his side informing his mother of
+    mollys death the two tearfully embrace and as he prepares to leave for his monthlong
+    stay in rehab he and sophie finally reach an understanding sophie admits that
+    she never saw max for who he was and encourages him to be whatever he wants telling
+    max that she loves him as the two embrace again the film ends with max saying
+    goodbye to brian and chloe as he departs for rehab before he and ed drive away
   sentences:
-  - Midnight Lace
-  - Komodo
-  - Kaminey
-- source_sentence: defense attorney jennifer garrick acquires a pinocchio puppet from
-    a condemned serial killer her preteen daughter zoe mistakes the puppet as a birthday
-    present and grows attached to her new friend suddenly accidents begin to happen
-    to those who cross zoe zoe claims its her pinocchio doll but her therapist thinks
-    otherwise pinocchio promises hell behave if zoe will cut his strings defense attorney
-    jennifer garrick  believes her client an accused child murderer on death row is
-    not guilty and is hiding the identity of the real killer after he is executed
-    she accidentally brings a pinocchio doll buried with her clients son home with
-    her from the office and her daughter zoe  mistakes it for a birthday gift she
-    starts acting strangely as she develops a relationship with the puppet soon she
-    even believes the doll to be real and talk with it although this is not out of
-    the ordinary as she held a similar relationship with her other dolls trouble takes
-    off when a school mate of zoe who bullied her is pushed in front of a bus which
-    zoe blames on pinocchio trying to protect her soon after jennifers boyfriend david
-    is knocked down the basement stairs while baby sitting zoe but is saved by zoe
-    calling 911 later zoe is at one of her therapy sessions when her psychiatrist
-    has to leave the room and zoe begins talking with pinocchio about who is to blame
-    for davids accident with both placing blame on one another a surveillance video
-    in the room is watched by the mother and the psychiatrist and it is revealed that
-    zoe is talking to herself that night pinocchio convinces zoe to set him free so
-    that he can admit to david that he is to blame for his accident zoe makes him
-    promise he will not do anything bad and cuts his strings at which point pinocchio
-    hops up declaring his freedom and takes off down the dark streets with zoe in
-    pursuit through a first person perspective we see an unknown person move through
-    the hospital through crowds of people into davids room and unplug one of his machines
-    killing him jennifer questions zoe who claims she got lost as she and pinocchio
-    try to find the hospital and never went there which causes an angry and confused
-    jennifer to lock pinocchio in the trunk of her car that night zoe is left in the
-    care of the babysitter sophe when sophe reminds her that zoe gave pinocchio a
-    conscience  zoe runs to her room to check on it and finds it smashed and begins
-    screaming sophe runs to make sure she is okay where she is struck by a fireplace
-    poker from an unknown assailant until she is dead jennifer arrives home that night
-    during a thunderstorm to find the babysitter dead and zoe standing in a dark hallway
-    quiet when jennifer tries to confront zoe she runs away in a panic as jennifer
-    explores the house she is struck by the poker and sees her daughter standing above
-    her with it in her hand her daughter explains that she just managed to get the
-    poker away from pinocchio but they must escape quickly but before jennifer can
-    inquire further zoe is gone jennifer stands up to see pinocchio standing in the
-    room at which point he suddenly turns towards her and attacks her with a knife
-    following with a chase and battle through the house jennifer throws pinocchio
-    through a glass coffee table and sees that her daughter is suddenly laying there
-    in his place the movie closes with a catatonic zoe being committed and jennifer
-    stating it was not her and that she will not give up until she gets better and
-    can leave to which the psychiatrist states i hope not for your sake i hope not
+  - Inkubus
+  - Trapped in a Purple Haze
+  - Paulie
+- source_sentence: christian slater is a stranger who comes to a small town the local
+    citizens think hes up to no good after bothering him for a while he blurts out
+    in frustration that he is there to kill himself this is the story of a depressed
+    man who comes into a town with no future the title character  wanders into a small
+    sleepy town with the intent to kill himself when the townspeople learn of his
+    plan julian becomes a minor celebrity and is offered all sorts of free perks since
+    this is the most exciting thing to ever happen in that town however julian gets
+    attached to the town and decides life is worth living after all much to the annoyance
+    of the townspeople who decide to set into motion plans for his suicide assisted
+    or forced if need be as long as he keeps his word and carries through with his
+    original plans much to his desperation and anger julian is a man with no goals
+    except to kill himself at the beginning of the movie he is treated with suspicion
+    then sympathy once he explains his goal then he meets sarah  who says that shes
+    been waiting her entire life for him she rekindles within him the desire to live
+    and experience love after they make love however julian awakens to find the bed
+    empty and a letter from sarah he rushes to the bridge out of town knowing that
+    it is too late sarah has committed suicide explaining that she wants to see julian
+    on the other side heartbroken julians mental condition is not helped by the townsfolks
+    cruelty forcing him to keep his promise on killing himself before this many of
+    the townspeople have tried to assist him with his suicide the barber offering
+    a quick bloody death with a straight razor the hotel manager showing off his multiple
+    rifles and the town sheriff expounding on the joy of death and killing the film
+    ends with julian walking out of town dressed in a suit and tie supervised by the
+    town sheriff mayor and barber so as to make sure he does not run away it is assumed
+    that he kills himself shortly afterwards fulfilling his dream of going to the
+    sea
   sentences:
-  - Pinocchio's Revenge
-  - A Little Romance
-  - The High Sign
+  - Julian Po
+  - Orgy of the Dead
+  - The Browning Version
 pipeline_tag: sentence-similarity
 library_name: sentence-transformers
 ---
@@ -289,9 +253,9 @@ from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("sentence_transformers_model_id")
 # Run inference
 sentences = [
-    'defense attorney jennifer garrick acquires a pinocchio puppet from a condemned serial killer her preteen daughter zoe mistakes the puppet as a birthday present and grows attached to her new friend suddenly accidents begin to happen to those who cross zoe zoe claims its her pinocchio doll but her therapist thinks otherwise pinocchio promises hell behave if zoe will cut his strings defense attorney jennifer garrick  believes her client an accused child murderer on death row is not guilty and is hiding the identity of the real killer after he is executed she accidentally brings a pinocchio doll buried with her clients son home with her from the office and her daughter zoe  mistakes it for a birthday gift she starts acting strangely as she develops a relationship with the puppet soon she even believes the doll to be real and talk with it although this is not out of the ordinary as she held a similar relationship with her other dolls trouble takes off when a school mate of zoe who bullied her is pushed in front of a bus which zoe blames on pinocchio trying to protect her soon after jennifers boyfriend david is knocked down the basement stairs while baby sitting zoe but is saved by zoe calling 911 later zoe is at one of her therapy sessions when her psychiatrist has to leave the room and zoe begins talking with pinocchio about who is to blame for davids accident with both placing blame on one another a surveillance video in the room is watched by the mother and the psychiatrist and it is revealed that zoe is talking to herself that night pinocchio convinces zoe to set him free so that he can admit to david that he is to blame for his accident zoe makes him promise he will not do anything bad and cuts his strings at which point pinocchio hops up declaring his freedom and takes off down the dark streets with zoe in pursuit through a first person perspective we see an unknown person move through the hospital through crowds of people into davids room and unplug one of his machines killing him jennifer questions zoe who claims she got lost as she and pinocchio try to find the hospital and never went there which causes an angry and confused jennifer to lock pinocchio in the trunk of her car that night zoe is left in the care of the babysitter sophe when sophe reminds her that zoe gave pinocchio a conscience  zoe runs to her room to check on it and finds it smashed and begins screaming sophe runs to make sure she is okay where she is struck by a fireplace poker from an unknown assailant until she is dead jennifer arrives home that night during a thunderstorm to find the babysitter dead and zoe standing in a dark hallway quiet when jennifer tries to confront zoe she runs away in a panic as jennifer explores the house she is struck by the poker and sees her daughter standing above her with it in her hand her daughter explains that she just managed to get the poker away from pinocchio but they must escape quickly but before jennifer can inquire further zoe is gone jennifer stands up to see pinocchio standing in the room at which point he suddenly turns towards her and attacks her with a knife following with a chase and battle through the house jennifer throws pinocchio through a glass coffee table and sees that her daughter is suddenly laying there in his place the movie closes with a catatonic zoe being committed and jennifer stating it was not her and that she will not give up until she gets better and can leave to which the psychiatrist states i hope not for your sake i hope not',
-    "Pinocchio's Revenge",
-    'The High Sign',
+    'christian slater is a stranger who comes to a small town the local citizens think hes up to no good after bothering him for a while he blurts out in frustration that he is there to kill himself this is the story of a depressed man who comes into a town with no future the title character  wanders into a small sleepy town with the intent to kill himself when the townspeople learn of his plan julian becomes a minor celebrity and is offered all sorts of free perks since this is the most exciting thing to ever happen in that town however julian gets attached to the town and decides life is worth living after all much to the annoyance of the townspeople who decide to set into motion plans for his suicide assisted or forced if need be as long as he keeps his word and carries through with his original plans much to his desperation and anger julian is a man with no goals except to kill himself at the beginning of the movie he is treated with suspicion then sympathy once he explains his goal then he meets sarah  who says that shes been waiting her entire life for him she rekindles within him the desire to live and experience love after they make love however julian awakens to find the bed empty and a letter from sarah he rushes to the bridge out of town knowing that it is too late sarah has committed suicide explaining that she wants to see julian on the other side heartbroken julians mental condition is not helped by the townsfolks cruelty forcing him to keep his promise on killing himself before this many of the townspeople have tried to assist him with his suicide the barber offering a quick bloody death with a straight razor the hotel manager showing off his multiple rifles and the town sheriff expounding on the joy of death and killing the film ends with julian walking out of town dressed in a suit and tie supervised by the town sheriff mayor and barber so as to make sure he does not run away it is assumed that he kills himself shortly afterwards fulfilling his dream of going to the sea',
+    'Julian Po',
+    'The Browning Version',
 ]
 embeddings = model.encode(sentences)
 print(embeddings.shape)
@@ -348,16 +312,16 @@ You can finetune this model on your own dataset.
 * Size: 14,474 training samples
 * Columns: <code>sentence_0</code>, <code>sentence_1</code>, and <code>sentence_2</code>
 * Approximate statistics based on the first 1000 samples:
-  |         | sentence_0                                                                           | sentence_1                                                                       | sentence_2                                                                       |
-  |:--------|:-------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
-  | type    | string                                                                               | string                                                                           | string                                                                           |
-  | details | <ul><li>min: 42 tokens</li><li>mean: 229.13 tokens</li><li>max: 256 tokens</li></ul> | <ul><li>min: 3 tokens</li><li>mean: 5.48 tokens</li><li>max: 16 tokens</li></ul> | <ul><li>min: 3 tokens</li><li>mean: 5.45 tokens</li><li>max: 16 tokens</li></ul> |
+  |         | sentence_0                                                                          | sentence_1                                                                       | sentence_2                                                                       |
+  |:--------|:------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+  | type    | string                                                                              | string                                                                           | string                                                                           |
+  | details | <ul><li>min: 29 tokens</li><li>mean: 229.5 tokens</li><li>max: 256 tokens</li></ul> | <ul><li>min: 3 tokens</li><li>mean: 5.42 tokens</li><li>max: 18 tokens</li></ul> | <ul><li>min: 3 tokens</li><li>mean: 5.46 tokens</li><li>max: 16 tokens</li></ul> |
 * Samples:
-  | sentence_0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | sentence_1                 | sentence_2                   |
-  |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|:-----------------------------|
-  | <code>for generations the people of the city of ember have flourished in an amazing world of glittering lights but embers once powerful generator is failing and the great lamps that illuminate the city are starting to flicker now two teenagers in a race against time must search ember for clues that will unlock the ancient mystery of the citys existence before the the lights go out forever in the midst of a nuclear war the builders of the underground city of ember place secret instructions to future generations in a small box timed to open in 200 years the box is thrust into the hands of the mayor of the underground complex each mayor in turn passes the box onto his or her successor when the box has 47 more years left on the timelock the mayor holding the box dies suddenly the significance of the box had not been explained to anyone else and the mayors family places it in a junkfilled closet when it finally reaches year 200 the timelock clicks open but the event goes unnoticed for generations...</code> | <code>City of Ember</code> | <code>Lianna</code>          |
-  | <code>when rudy baylor matt damon a young attorney with no clients goes to work for a seedy ambulance chaser he wants to help the parents of a terminally ill boy in their suit against an insurance company represented by a ruthless jon voight but to take on corporate america rudy and a scrappy paralegal danny devito must open their own law firm rudy baylor  is a graduate of the university of memphis law school unlike most of his fellow grads he has no highpaying employment lined up and is forced to apply for parttime positions while serving drinks at a memphis bar desperate for a job he reluctantly goes to an interview with j lyman bruiser stone  a ruthless but successful personal injury lawyer who makes him an associate to earn his fee rudy is turned into a veritable ambulance chaser required to hunt for potential clients at a local hospital soon he meets deck shifflet  a lessthanethical former insurance assessor turned paralegal who has failed the bar exam six times deck is resourceful in g...</code> | <code>The Rainmaker</code> | <code>The Dog Problem</code> |
-  | <code>when juli meets bryce in the second grade she knows its true love after spending six years trying to convince bryce the same shes ready to give up  until he starts to reconsider in 1957 when secondgraders bryce loski  and julianna  baker  first meet juli knows its love but bryce isnt so sure girlphobic and easily embarrassed young bryce does everything he can to keep away as much as possible from juli for the next six years which isnt easy since they go to the same school and live across the street from each other when they start the sixth grade bryce hopes that he can get rid of juli so he asks the girl juli hates the most shelly stalls  out on a date this plan of bryces works for a while up until his best friend garrett  takes an interest in shelly and tells her the truth about bryce asking her out juli finds out bryce and shelly break up she goes back to her regular bryceobsessed self from julis point of view when she and bryce first met he returned her feelings but was just shy and...</code> | <code>Flipped</code>       | <code>Kismet</code>          |
+  | sentence_0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | sentence_1             | sentence_2                   |
+  |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------------|
+  | <code>an adaptation of celebrity chef nigel slaters bestselling memoir toast is the ultimate nostalgic trip through everything edible in 1960s britain nigels mother was always a poor cook but her chronic asthma and addiction to all things canned does not help young nigel slater  is keen on cooking while his mother   who suffers from chronic asthma  is a poor cook whose speciality is toast as her illness worsens so does nigels relationship with his father alan  after nigels mother dies his father begins to spend his evenings with newly divorced cleaner mrs potter  whose signature lemon meringue pie is a hit with mr slater nigel would later try to extract the recipe from her alan and mrs potter embark on a relationship and soon move to a remote part of the herefordshire countryside with nigel who dislikes his fathers new partner as a teenager nigel  finds solace in home economics classes at school and uses his improved culinary skills to gain his fathers affections thus becoming mrs potters ri...</code> | <code>Toast</code>     | <code>Nothing Sacred</code>  |
+  | <code>led by woody andys toys live happily in his room until andys birthday brings buzz lightyear onto the scene afraid of losing his place in andys heart woody plots against buzz but when circumstances separate buzz and woody from their owner the duo eventually learns to put aside their differences woody is a pullstring cowboy doll and leader of a group of toys that belong to a boy named andy davis which act lifeless when humans are present with his family moving homes one week before his birthday the toys stage a reconnaissance mission to discover andys new presents andy receives a space ranger buzz lightyear action figure whose impressive features see him replacing woody as andys favorite toy woody is resentful especially as buzz also gets attention from the other toys however buzz believes himself to be a real space ranger on a mission to return to his home planet as woody fails to convince him he is a toy andy prepares for a family outing at the space themed pizza planet restaurant with...</code> | <code>Toy Story</code> | <code>Avenging Angelo</code> |
+  | <code>in this remake of the 1933 classic about the giant ape an oil company expedition disturbs the peace of kong and brings him back to new york to exploit him even though a woman somewhat tames kong he finally breaks loose and terrorizes the city and as the military attempt to stop him he falls to his death from the top of the world trade center in the 1970s fred wilson  an executive of the petrox oil company forms an expedition based on infrared imagery which reveals a previously undiscovered indian ocean island hidden by a permanent cloud bank wilson believes the island has a huge deposit of oil jack prescott  a primate paleontologist sneaks onto the expeditions vessel and attempts to warn the team against traveling to the island citing an ominous final message about the roar of the greatest beast from previous doomed explorers wilson orders prescott locked up claiming that he is really a spy from a rival corporation the ship happens upon a life raft which carries the beautiful and uncon...</code> | <code>King Kong</code> | <code>Billy Bathgate</code>  |
 * Loss: [<code>TripletLoss</code>](https://sbert.net/docs/package_reference/sentence_transformer/losses.html#tripletloss) with these parameters:
   ```json
   {
@@ -497,11 +461,11 @@ You can finetune this model on your own dataset.
 ### Training Logs
 | Epoch  | Step | Training Loss |
 |:------:|:----:|:-------------:|
-| 0.5525 | 500  | 4.7325        |
-| 1.1050 | 1000 | 4.5916        |
-| 1.6575 | 1500 | 4.5115        |
-| 2.2099 | 2000 | 4.4855        |
-| 2.7624 | 2500 | 4.435         |
+| 0.5525 | 500  | 4.7283        |
+| 1.1050 | 1000 | 4.5929        |
+| 1.6575 | 1500 | 4.5079        |
+| 2.2099 | 2000 | 4.4767        |
+| 2.7624 | 2500 | 4.4239        |
 
 
 ### Framework Versions

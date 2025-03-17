@@ -69,7 +69,8 @@ def main():
     model = fine_tune_model(df)
     
     # Generate embeddings
-    embeddings = generate_embeddings(df)
+    # embeddings = generate_embeddings(df)
+    embeddings = model.encode(df['combined_text'].tolist())
     
     # Save embeddings and metadata
     np.save('movie_embeddings.npy', embeddings)
